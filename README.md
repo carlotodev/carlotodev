@@ -1,8 +1,8 @@
 ## Hi there 👋
 <div>
   <a href="https://github.com/carlotodev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlotodev&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlotodev&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=carlotodev&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlotodev&layout=compact&theme=tokyonight"/>
 </div>
 <div style="display, inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
