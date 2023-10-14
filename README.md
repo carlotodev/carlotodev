@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/carlotodev">
     
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlotodev&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Carloto's github stats" /></a> / <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlotodev&layout=compact&theme=tokyonight" /></a> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlotodev&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Carloto's github stats" /></a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlotodev&layout=compact&theme=tokyonight" /></a> 
 
 </div>
 <div style="display, inline_block"><br>
